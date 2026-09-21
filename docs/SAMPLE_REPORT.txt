@@ -1,0 +1,30 @@
+CAMPUS STOCK — SIMULATED DATA | 2026-01-01 to 2026-06-30
+Revenue: $26,918.87 | Gross profit: $17,167.97 | Units: 2680
+
+PRODUCT PERFORMANCE
+Wireless mouse          200 units     $3,998.00
+Water bottle            257 units     $3,852.43
+Coffee tumbler          213 units     $3,831.87
+Laptop sleeve           225 units     $3,822.75
+Canvas tote             232 units     $2,317.68
+USB flash drive         190 units     $2,278.10
+USB-C cable             210 units     $2,097.90
+Gel pen pack            207 units     $1,138.50
+Spiral notebook         240 units     $1,080.00
+Snack pack              236 units       $941.64
+Highlighter set         220 units       $935.00
+Index cards             250 units       $625.00
+
+REORDER ALERTS (ending inventory)
+USB-C cable               0 left; reorder point 65
+Spiral notebook           0 left; reorder point 60
+USB flash drive           0 left; reorder point 55
+Index cards               0 left; reorder point 50
+Wireless mouse            0 left; reorder point 50
+Water bottle              3 left; reorder point 50
+Highlighter set           0 left; reorder point 45
+Laptop sleeve             5 left; reorder point 45
+Canvas tote               8 left; reorder point 45
+Gel pen pack             23 left; reorder point 55
+Coffee tumbler           17 left; reorder point 40
+Snack pack               44 left; reorder point 60
